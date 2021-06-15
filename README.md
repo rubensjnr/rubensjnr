@@ -1,4 +1,4 @@
-# Rubens Junior - Juninho!
+# Rubens Junior - Juninho
 
 🎓 Cursando Analise e Desenvolvimento de Sistemas (A.D.S).
 
