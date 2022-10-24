@@ -5,10 +5,10 @@
 No momento estou estudando:
 - Lógica de Programação; ✅
 - HTML5/CSS3; ✅
-- JavaScript ✅
-- React.Js
-- Node.Js
-- ReactNative
+- JavaScript; ✅
+- React.Js;
+- Node.Js;
+- ReactNative;
 
 Futuro Full Stack Developer
 
