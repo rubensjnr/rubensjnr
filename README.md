@@ -1,12 +1,14 @@
 # Rubens Junior - Juninho
 
-🎓 Cursando Analise e Desenvolvimento de Sistemas (A.D.S).
+🎓 Cursando Analise e Desenvolvimento de Sistemas | Fema
 
-Estudando/Realizando cursos no momento de:
+No momento estou estudando:
 - Lógica de Programação;
 - HTML5/CSS3;
 - JavaScript
+- React.Js
 - Node.Js
+- ReactNative
 
 Futuro Full Stack Developer
 
