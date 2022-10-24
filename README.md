@@ -3,9 +3,9 @@
 🎓 Cursando Analise e Desenvolvimento de Sistemas | Fema
 
 No momento estou estudando:
-- Lógica de Programação;
-- HTML5/CSS3;
-- JavaScript
+- Lógica de Programação; ✅
+- HTML5/CSS3; ✅
+- JavaScript ✅
 - React.Js
 - Node.Js
 - ReactNative
