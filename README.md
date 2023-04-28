@@ -26,10 +26,10 @@ Futuro Full Stack Developer
 
 ### Contato
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-da-cunha-junior-850556197/){:target="_blank" rel="noopener"}
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)]( https://www.facebook.com/rbn.rj97/){:target="_blank" rel="noopener"}
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rubens.cjnr@gmail.com {:target="_blank" rel="noopener"})
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-da-cunha-junior-850556197/){:target="_blank"}.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)]( https://www.facebook.com/rbn.rj97/){:target="_blank"}.
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rubens.cjnr@gmail.com){:target="_blank"}.
 
 ### Currículo 
 
-[![Currículo](https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1sFBsLJyqbIWayY2Vvx-w4Jp8MfNCr-D_/view?usp=sharing){:target="_blank" rel="noopener"}
+[![Currículo](https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1sFBsLJyqbIWayY2Vvx-w4Jp8MfNCr-D_/view?usp=sharing){:target="_blank"}.
