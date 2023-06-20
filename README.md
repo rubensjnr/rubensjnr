@@ -5,12 +5,15 @@
 No momento estou estudando:
 - Lógica de Programação; ✅
 - HTML5/CSS3; ✅
+- UI/UX; ✅
 - JavaScript; ✅
 - React.Js;
 - Node.Js;
 - ReactNative;
+- Angular;
+(...)
 
-Futuro Full Stack Developer
+Future Full Stack Developer
 
 ## Tecnologias & Ferramentas
 ![NodeJS](https://img.shields.io/badge/-Node.JS-339933?style=flat&&logo=Node.js&logoColor=white)
