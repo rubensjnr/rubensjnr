@@ -11,6 +11,7 @@ No momento estou estudando:
 - Node.Js
 - ReactNative
 - Angular
+- Metodologias ágeis
 - Loading ...
 
 Future Full Stack Developer
