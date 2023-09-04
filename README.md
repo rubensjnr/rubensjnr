@@ -12,6 +12,8 @@ No momento estou estudando:
 - ReactNative
 - Angular
 - Metodologias ágeis
+- MongoDB
+- SQL
 - Loading ...
 
 Future Full Stack Developer
