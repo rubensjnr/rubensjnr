@@ -1,6 +1,6 @@
 # Rubens Junior
 
-🎓 Cursando Analise e Desenvolvimento de Sistemas | Fema
+🎓 Cursando Analise e Desenvolvimento de Sistemas |<a href="https://fema.edu.br/" target="_blank"> FEMA </a>
 
 No momento estou estudando:
 - Lógica de Programação ✅
