@@ -7,8 +7,8 @@ No momento estou estudando:
 - HTML5/CSS3 ✅
 - UI/UX ✅
 - JavaScript ✅
-- React.Js
-- Node.Js
+- React.Js ⏳
+- Node.Js ⏳
 - ReactNative
 - Angular
 - Metodologias ágeis
@@ -38,6 +38,8 @@ Future Full Stack Developer
 <a href="" target="_blank">
  <img src="https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Curriculo"></a>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rubensjnr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rubensjnr?trk=profile-badge">Rubens da Cunha Junior</a></div>
+              
 
 
 
