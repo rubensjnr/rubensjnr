@@ -13,7 +13,7 @@ Conhecimentos e estudos:
 - Angular ⏳
 - Metodologias ágeis ⏳
 - MongoDB ⏳
-- MySql ✅
+- MySQL ✅
 - Loading ...
 
 Future Full Stack Developer
