@@ -7,13 +7,13 @@ Conhecimentos e estudos:
 - HTML5/CSS3 ✅
 - UI/UX ✅
 - JavaScript ✅
-- React.Js ⏳
+- React.Js ✅
 - Node.Js ⏳
-- ReactNative
-- Angular
-- Metodologias ágeis
-- MongoDB
-- SQL
+- ReactNative ⏳
+- Angular ⏳
+- Metodologias ágeis ⏳
+- MongoDB ⏳
+- MySql ✅
 - Loading ...
 
 Future Full Stack Developer
