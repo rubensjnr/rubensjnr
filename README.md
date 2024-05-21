@@ -37,7 +37,7 @@ Future Full Stack Developer
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rubens.cjnr@gmail.com)
 
 ### Currículo 
-<a href="" target="_blank">
+<a href="https://drive.google.com/file/d/1TR-9SZ6mAf63s6IWgwNPlD7y1NfrUiK8/view?usp=drive_link" target="_blank">
  <img src="https://img.shields.io/badge/-Currículo-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Curriculo"></a>
 
               
