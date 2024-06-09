@@ -8,7 +8,8 @@ Conhecimentos e estudos:
 - UI/UX ✅
 - JavaScript ✅
 - React.Js ✅
-- Node.Js ⏳
+- Node.Js ✅
+- Express ✅
 - ReactNative ⏳
 - Angular ⏳
 - Metodologias ágeis ⏳
