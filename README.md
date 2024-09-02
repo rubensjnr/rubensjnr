@@ -10,10 +10,11 @@ Conhecimentos e estudos:
 - React.Js ✅
 - Node.Js ✅
 - Express ✅
+- JWT ⏳
 - ReactNative ⏳
 - Angular ⏳
 - Metodologias ágeis ⏳
-- MongoDB ⏳
+- MongoDB ✅
 - MySQL ✅
 - Loading ...
 
