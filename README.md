@@ -7,6 +7,7 @@ Conhecimentos e estudos:
 - HTML5/CSS3 ✅
 - UI/UX ✅
 - JavaScript ✅
+- TypeScript ✅
 - React.Js ✅
 - Node.Js ✅
 - Express ✅
