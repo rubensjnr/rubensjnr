@@ -10,12 +10,14 @@ Conhecimentos e estudos:
 - React.Js ✅
 - Node.Js ✅
 - Express ✅
+- NestJS ⏳
 - JWT ⏳
 - ReactNative ⏳
-- Angular ⏳
-- Metodologias ágeis ⏳
+- Prisma ✅
+- TypeORM ⏳
 - MongoDB ✅
 - MySQL ✅
+- PostgreSQL ⏳
 - Loading ...
 
 Future Full Stack Developer
