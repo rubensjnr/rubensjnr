@@ -1,6 +1,6 @@
 # Rubens Junior
 
-🎓 Cursando Analise e Desenvolvimento de Sistemas | <a href="https://fema.edu.br/" target="_blank">FEMA</a>
+🎓 Formação em Analise e Desenvolvimento de Sistemas.
 
 Conhecimentos e estudos:
 - Lógica de Programação ✅
